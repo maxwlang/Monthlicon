@@ -1,0 +1,9 @@
+Package: me.virulent.ios.tweaks.monthlicon
+Name: Monthlicon
+Depends: mobilesubstrate
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: Put the month under the Calendar icon.
+Maintainer: Maxwell Lang
+Author: Maxwell Lang
+Section: Tweaks
